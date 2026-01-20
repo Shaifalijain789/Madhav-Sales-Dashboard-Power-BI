@@ -1,2 +1,2 @@
 Madhav Sales Dashboard
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard.PNG)
