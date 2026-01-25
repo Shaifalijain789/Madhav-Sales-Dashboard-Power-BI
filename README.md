@@ -1,10 +1,10 @@
-## Madhav Sales Dashboard
-# Overview
+# Madhav Sales Dashboard
+## Overview
 
 The owner of Madhav Store wants to track and analyze online sales across India to gain better insights into business performance.
 This project involves creating an interactive sales dashboard that helps monitor sales, profit, customer behavior, and payment trends to support data-driven decision making.
 
-# Objectives
+## Objectives
 
  * Track overall sales, profit, and order quantity
  * Analyze state-wise sales performance across India
