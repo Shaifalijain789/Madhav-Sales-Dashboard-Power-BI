@@ -76,5 +76,10 @@ Top contributing customers include:
 * Run targeted campaigns during high-profit months
 * Reward loyal, high-value customers
 
+## Tools and Technologies
+
+* Power Query Editor
+* Power BI
+
 ## Dashboard
 ![Dashboard](Dashboard.PNG)
